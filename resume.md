@@ -7,12 +7,11 @@ indent: false
 
 # Erin Burton
 
-Software Engineer / Full-Stack Generalist
+_Software Engineer / Full-Stack Generalist_
 
-Located in Nanaimo, BC  
-Phone: 250-816-5110  
-Email: <eb@flat9.dev>  
-GitHub: [github.com/astridlyre][]
+| Location    | Phone        | Email          | Github                    |
+| ----------- | ------------ | -------------- | ------------------------- |
+| Nanaimo, BC | 250-816-5110 | <eb@flat9.dev> | [github.com/astridlyre][] |
 
 ## Summary
 
@@ -26,7 +25,7 @@ GitHub: [github.com/astridlyre][]
 
 ### Technical Lead, [Streamily][]
 
-#### (Feb 2022 - Present)
+_(2022 to Present)_
 
 - Directed the technical strategy of the company, including tech stack decisions
   and application scaling that resulted in over 300% decrease in API latency,
@@ -39,7 +38,7 @@ GitHub: [github.com/astridlyre][]
 
 ### Senior Developer, SubcoDevs
 
-#### (2022 - Present)
+_(2022 to Present)_
 
 - Senior developer for a consulting firm specializing in troubleshooting and
   unblocking projects for clients
@@ -50,7 +49,7 @@ GitHub: [github.com/astridlyre][]
 
 ### Freelance Developer
 
-#### (2018 - Present)
+_(2018 to Present)_
 
 - Developed and delivered a wide range of projects for small businesses,
   including websites, internal tools and e-commerce platforms
@@ -88,17 +87,17 @@ GitHub: [github.com/astridlyre][]
 
 ### Self Learning
 
-#### (2010 - Present)
+_(2010 to Present)_
 
 - Continuous self-taught learning through technical books, Udemy and other online platforms in computer science and new technologies
 
 ### LPI Linux Certification
 
-#### (Jun, 2021)
+_(June 2021)_
 
 ### Capilano University
 
-#### (Jun, 2009)
+_(June 2009)_
 
 - Diploma in Jazz, with double major in bass and classical guitar
 - Graduated with distinction
@@ -107,7 +106,7 @@ GitHub: [github.com/astridlyre][]
 
 ### Professional Musician
 
-#### (2009 - Present)
+_(2009 to Present)_
 
 - Parallel career as a professional musician, highlighting dedication and commitment to continuous learning and skill enhancement
 - Dozens of international tours with musical groups and cruise ship companies
